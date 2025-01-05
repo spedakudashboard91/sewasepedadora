@@ -1,1 +1,6 @@
-ECHO is on.
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
